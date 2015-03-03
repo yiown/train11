@@ -40,6 +40,6 @@ int main() {
     // constants must be initialized
 
     // type inference for generic programming
-    auto d3 = 1.2 // a double
+    auto d3 = 1.2; // a double
 }
 
